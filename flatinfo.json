@@ -2,79 +2,103 @@
   "FlatInfo":[
     {
       "FlatNo": "101",
-      "status": "0"
+      "status": "0",
+      "cost": "30000000"
     },
     {
       "FlatNo": "102",
-      "status": "0"
+      "status": "0",
+      "cost": "30000000"
     },
     {
       "FlatNo": "103",
-      "status": "1"
+      "status": "1",
+      "cost": "40000000"
     },
     {
       "FlatNo": "104",
-      "status": "0"
+      "status": "0",
+      "cost": "40000000"
     },
     {
       "FlatNo": "105",
-      "status": "0"
+      "status": "0",
+      "cost": "40000000"
     },
     {
       "FlatNo": "106",
-      "status": "1"
+      "status": "1",
+      "cost": "50000000"
     },
     {
       "FlatNo": "107",
-      "status": "0"
+      "status": "0",
+      "cost": "50000000"
     },
     {
       "FlatNo": "108",
-      "status": "0"
+      "status": "1",
+      "cost": "50000000"
     },
     {
       "FlatNo": "109",
-      "status": "0"
+      "status": "0",
+      "cost": "50000000"
     },
     {
       "FlatNo": "1010",
-      "status": "0"
+      "status": "0",
+      "cost": "60000000"
     },
     {
       "FlatNo": "1011",
-      "status": "0"
+      "status": "0",
+      "cost": "60000000"
     },
     {
       "FlatNo": "1012",
-      "status": "0"
+      "status": "0",
+      "cost": "60000000"
     },
     {
       "FlatNo": "1013",
-      "status": "0"
+      "status": "0",
+      "cost": "60000000"
     },
     {
       "FlatNo": "1014",
-      "status": "1"
+      "status": "1",
+      "cost": "60000000"
     },
     {
       "FlatNo": "1015",
-      "status": "1"
+      "status": "1",
+      "cost": "100000000"
     },
     {
       "FlatNo": "1016",
-      "status": "1"
+      "status": "1",
+      "cost": "80000000"
     },
     {
       "FlatNo": "1017",
-      "status": "1"
+      "status": "1",
+      "cost": "80000000"
     },
     {
       "FlatNo": "1018",
-      "status": "1"
+      "status": "1",
+      "cost": "80000000"
     },
     {
       "FlatNo": "1019",
-      "status": "0"
+      "status": "0",
+      "cost": "80000000"
+    },
+    {
+      "FlatNo": "1020",
+      "status": "1",
+      "cost": "80000000"
     }
   ]
 }
